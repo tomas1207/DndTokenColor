@@ -15,13 +15,11 @@ The effects include no automation. They are purely visual indicators for whateve
 
 **Preview:**
 
-Macro opens easy dialogue to pick color. 
-
+Macro opens easy dialogue to pick color
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Apply%20Color.PNG)
 
 
-All Colors included in the module.
-
+All Colors included in the module
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Apply%20Color%202.PNG)
 
 
