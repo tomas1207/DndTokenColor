@@ -1,0 +1,26 @@
+{
+    "name": "pf2e-color-effects",
+    "title": "PF2E Color Effects",
+    "description": "Adds a compendium with 6 effects, which only display a color on the token.",
+    "version": "0.9.9",
+    "author": "InfamousSky",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+	"system": ["pf2e"],
+    "packs": [
+        {
+            "name": "pf2e-color-effects",
+            "label": "PF2E Color Effects",
+            "path": "./packs/items.db",
+            "type": "Item"
+        },
+        {
+            "name": "pf2e-color-macros",
+            "label": "PF2E Color Effects Macros",
+            "path": "./packs/macros.db",
+            "type": "Macro"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
