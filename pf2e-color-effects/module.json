@@ -21,6 +21,6 @@
             "type": "Macro"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/pf2e-color-effects/module.json",
+    "download": "https://gitlab.com/InfamousSky/pf2e-color-effects/-//archive/main/pf2e-color-effects-main.zip"
   }
