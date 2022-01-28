@@ -1,3 +1,5 @@
+Very Tiny Module that lets you easily place coloured dots on tokens to keep track of, well, whatever you want.
+
 **System compatability:**
 
 The module requires the PF2E system and a Foundry version of V9 or higher.
@@ -15,10 +17,15 @@ Each effect includes no automation. They are purely visual indicators for whatev
 
 **Preview:**
 
-The effects included with the module and their preconfigured icons.
+Macro opens easy dialogue to pick color. 
 
-![Screenshot](https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview1.png)
+![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Apply%20Color.PNG)
 
-A party exploring a dungeon, with effects showing their activities to the GM at a glance.
 
-![Screenshot](https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview2.png)
+All Colors included in the module.
+
+![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Apply%20Color%202.PNG)
+
+
+
+![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/apply%20color.gif)
