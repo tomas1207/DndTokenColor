@@ -2,7 +2,7 @@
     "name": "pf2e-color-effects",
     "title": "PF2E Color Effects",
     "description": "Adds a compendium with 6 effects, which only display a color on the token.",
-    "version": "0.9.9",
+    "version": "1.0.0",
     "author": "InfamousSky",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
