@@ -15,7 +15,7 @@ The effects include no automation. They are purely visual indicators for whateve
 
 **Preview:**
 
-Macro opens easy dialogue to pick color
+Macro opens easy dialogue to pick color (You can also hover over a token without selecting, and then press the macro hotkey!)
 
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Apply%20Color.PNG)
 
