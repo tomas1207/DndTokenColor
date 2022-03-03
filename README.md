@@ -30,3 +30,8 @@ All Colors included in the module
 
 
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/apply%20color.gif)
+
+**Version 1.1.0**
+adds "Apply Number" Macro, which lets you add and remove a number from 1-9 on the token
+
+![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Counter.gif)
