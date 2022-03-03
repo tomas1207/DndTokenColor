@@ -35,3 +35,8 @@ All Colors included in the module
 adds "Apply Number" Macro, which lets you add and remove a number from 1-9 on the token
 
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/Counter.gif)
+
+**Version 1.2.0**
+adds "ColorCounter" Macro, which combines to powers of Colors and Counters to let you place a Number witch a colored background
+
+![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/ColorCounter.gif)
