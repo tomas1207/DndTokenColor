@@ -45,3 +45,6 @@ adds "ColorCounter" Macro, which combines the powers of colors and counters to l
 adds "Action Tracker" Macro, which has icons for the Aid, Delay and Ready actions
 
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/ActionEffects.gif)
+
+**Version 1.4.0**
+adds "Reaction used" Macro, which lets you track which actors have used their reaction. Do note that while it has a duration of one round, it does not get automatically removed at the start of the actor's turn, this requires the macro to be run again. (You can also give players observer permissions to this macro so they can add and remove this effect on their own tokens.)
