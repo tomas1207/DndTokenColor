@@ -40,3 +40,8 @@ adds "Apply Number" Macro, which lets you add and remove a number from 1-9 on th
 adds "ColorCounter" Macro, which combines the powers of colors and counters to let you place a number with a colored background
 
 ![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/ColorCounter.gif)
+
+**Version 1.3.0**
+adds "Action Tracker" Macro, which has icons for the Aid, Delay and Ready actions
+
+![Screenshot](https://gitlab.com/InfamousSky/pf2e-color-effects/-/raw/main/documentation/ActionEffects.gif)
