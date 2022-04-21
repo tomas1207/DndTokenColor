@@ -49,4 +49,4 @@ adds "Action Tracker" Macro, which has icons for the Aid, Delay and Ready action
 **Version 1.4.0**
 adds "Reaction used" Macro, which lets you track which actors have used their reaction. Do note that while it has a duration of one round, it does not get automatically removed at the start of the actor's turn, this requires the macro to be run again. (You can also give players observer permissions to this macro so they can add and remove this effect on their own tokens.)
 
-**Version 1.5.0** Adds 2 more "Reaction Used" Macros, one with the number "2" to track varius second reactions some CLasses/Archetypes grant, and one with a Shield to track Quick Shield Block
+**Version 1.5.0** Adds 2 more "Reaction Used" Macros, one with the number "2" to track various second reactions some Classes/Archetypes grant, and one with a Shield to track Quick Shield Block
