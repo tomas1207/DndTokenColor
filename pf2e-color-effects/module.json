@@ -2,7 +2,7 @@
     "name": "pf2e-color-effects",
     "title": "PF2E Token Markers",
     "description": "Adds Macros that let you track various things as effects on tokens.",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "author": "InfamousSky",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
@@ -12,14 +12,12 @@
             "name": "pf2e-color-effects",
             "label": "PF2E Token Marker Effects",
             "path": "./packs/color-effects.db",
-            "entity": "Item",
             "type": "Item"
         },
         {
             "name": "pf2e-color-macros",
             "label": "PF2E Token Marker Macros",
             "path": "./packs/color-effects-macros.db",
-            "entity": "Macro",
             "type": "Macro"
         }
     ],
