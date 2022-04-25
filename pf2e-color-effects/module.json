@@ -1,12 +1,12 @@
 {
-    "name": "pf2e-color-effects",
-    "title": "PF2E Token Markers",
+    "name": "color-effects-5e",
+    "title": "5E Token Markers",
     "description": "Adds Macros that let you track various things as effects on tokens.",
     "version": "1.5.0",
     "author": "InfamousSky",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
-    "system": ["pf2e","dnd5e"],
+    "system": ["dnd5e"],
         "packs": [
         {
             "name": "pf2e-color-effects",
