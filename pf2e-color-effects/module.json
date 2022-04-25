@@ -6,7 +6,7 @@
     "author": "InfamousSky",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
-    "system": ["pf2e"],
+    "system": ["pf2e","dnd5e"],
         "packs": [
         {
             "name": "pf2e-color-effects",
